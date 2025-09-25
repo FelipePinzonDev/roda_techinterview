@@ -21,7 +21,7 @@ cd roda_techInterview
 
 # 2. Instalar dependencias de Python (Asumiendo que ya tienes .venv)
 source .venv/bin/activate
-pip install -r requirements.txt # O ejecuta todas las dependencias con pip install fastapi uvicorn...
+pip install fastapi uvicorn
 
 # 3. Instalar dependencias de Node/Frontend
 cd web
